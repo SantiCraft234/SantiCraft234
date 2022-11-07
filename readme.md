@@ -1,7 +1,7 @@
 ```java
 package me.santicraft.profileinfo;
 
-import com.github.profile.description;
+import com.github.profile.description.ProfileInfo;
 
 public class Info extends ProfileInfo {
   public String name = 'Santiago Velazques';
