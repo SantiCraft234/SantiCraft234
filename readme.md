@@ -10,7 +10,7 @@ public class Info extends ProfileInfo {
   public boolean male = true  
 }
 
-public class Language extends ProfileInfo {
+priivate class Language extends ProfileInfo {
   public String Language = ['HTML, CSS, JS, JAVA'];
 }
 ```
